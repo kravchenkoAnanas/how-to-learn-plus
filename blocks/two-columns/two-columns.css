@@ -1,0 +1,11 @@
+.two-columns {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 80%;
+    box-sizing: border-box;
+  }
+
+  .two-columns:last-child {
+    margin-bottom: 0;
+  }

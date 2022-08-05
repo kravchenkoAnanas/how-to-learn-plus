@@ -1,0 +1,4 @@
+.table__cell {
+    width: 250px;
+    column-gap: 20px;
+  }

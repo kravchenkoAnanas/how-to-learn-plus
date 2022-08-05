@@ -1,0 +1,10 @@
+.two-columns__main-text {
+    width: 80%;
+    min-width: 784px;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    box-sizing: border-box;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
