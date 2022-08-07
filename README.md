@@ -1,4 +1,4 @@
-# My first web project
+# First project
 
 ### I used HTML5 and CSS3
 
