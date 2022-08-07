@@ -6,4 +6,5 @@
     height: 608px;
     z-index: 1;
     box-sizing: border-box;
+    object-fit: cover;
   }

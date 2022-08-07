@@ -1,7 +1,6 @@
 .video__iframes {
     position: relative;
-    top: 60px;
+    top: 50px;
     display: flex;
     column-gap: 20px;
-    border-width: 0;
   }

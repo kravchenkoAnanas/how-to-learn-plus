@@ -5,3 +5,7 @@
     text-decoration: none;
     color: white;
   }
+
+  .footer__column-link:last-child {
+    margin-bottom: 0;
+  }
